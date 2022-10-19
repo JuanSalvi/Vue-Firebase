@@ -1,12 +1,12 @@
-# Trabajo-09-Vue-Firebase
+#Vue-Firebase
 
 
-Juan Emmanuel Fernández de Lara Hernández
-
-## Página web
-
-https://jeflh-vue-firebase.netlify.app/#/
+Juan Jose Salazar Villegas
 
 
-## Correo: correo@correo.com
+Link de Pagina: salvi-vue-firebase.netlify.app
+
+
+
+## Correo: usuario@hotmail.com
 ## Contraseña: 123456

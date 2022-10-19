@@ -4,7 +4,8 @@
 Juan Jose Salazar Villegas
 
 
-Link de Pagina: salvi-vue-firebase.netlify.app
+Link de Pagina: https://salvi-vue-firebase.netlify.app/#/
+
 
 
 
